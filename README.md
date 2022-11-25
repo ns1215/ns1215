@@ -1,6 +1,6 @@
 - NITIN SHAH
 - Web Developer 
 - Python Programmer 
-- Java Programmer
+- JavaScript Programmer
 - 📧 ns1215@srmist.edu.in
 
