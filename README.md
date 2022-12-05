@@ -1,4 +1,3 @@
-- NITIN SHAH
 - Web Developer 
 - Python Programmer 
 - JavaScript Programmer
